@@ -1,3 +1,4 @@
 export interface Blog {
-  id:number
+  id:number,
+  title:string
 }
